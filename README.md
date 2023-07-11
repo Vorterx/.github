@@ -1,0 +1,2 @@
+# .github
+about vorterx team
